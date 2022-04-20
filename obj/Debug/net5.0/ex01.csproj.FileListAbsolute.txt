@@ -1,0 +1,16 @@
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.csproj.AssemblyReference.cache
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.AssemblyInfoInputs.cache
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.AssemblyInfo.cs
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.csproj.CoreCompileInputs.cache
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.exe
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.deps.json
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.runtimeconfig.json
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.runtimeconfig.dev.json
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.dll
+D:\Downloads\C sharp #\MeuTutorial\ex01\bin\Debug\net5.0\ex01.pdb
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.dll
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\refint\ex01.dll
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.pdb
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ex01.genruntimeconfig.cache
+D:\Downloads\C sharp #\MeuTutorial\ex01\obj\Debug\net5.0\ref\ex01.dll

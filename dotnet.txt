@@ -1,0 +1,1 @@
+dotnet new console --name ex01 --framework net5.0
